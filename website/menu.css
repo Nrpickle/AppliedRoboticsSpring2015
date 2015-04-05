@@ -94,3 +94,13 @@ li {
 		-webkit-transform: rotate(45deg);
 		transform: rotate(45deg);
 	}
+  
+  /* MODIFICATIONS */
+  
+  /* Add some spacing to the top element */
+  #menu li:first-child {
+    margin-top: 20px;
+  }
+
+  
+  
