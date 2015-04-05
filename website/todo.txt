@@ -1,3 +1,6 @@
 ROB 421 website todo list
 
--Add spacing to the top of the menu
+MENU IMPROVEMENTS
+- Add spacing to the top of the menu
+- Make menu stick to where it is on the screen
+- Make menu height resize with the window
