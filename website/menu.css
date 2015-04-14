@@ -5,11 +5,12 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
 
 html {
-	background: #333; /* url(http://subtlepatterns.com/patterns/tex2res4.png) 0 0 repeat;*/
+  background-color: #D2C1B8:
+	/* background: #333; */ /* url(http://subtlepatterns.com/patterns/tex2res4.png) 0 0 repeat;*/
 	min-height: 100%;
 	font-family: "Open Sans", sans-serif;
 	font-weight: 300;
-	color: #FFF;
+	color: #000   ;
 }
 
 body, html {
@@ -19,12 +20,12 @@ body, html {
 }
 
 a {
-	color: rgba(255, 255, 255, 0.6);
+	color: #FCFCFC; 
 	text-decoration: none;
 }
 
 	a:hover, li:hover > a {
-		color: #FFF;
+		color: #DEDEDE;
 	}
 
 ul {
@@ -41,11 +42,15 @@ li {
 #menu {
 	border-left: 1px solid #FFF;
 	border-right: 1px solid #FFF;
-	background: rgba(0, 0, 0, 0.5);
+	background: rgba(0, 0, 0, 0.8);
 	float: left;
 	font-size: 1.5em;
 	min-height: 100%;
 	margin-left: 1em;
+  
+  position: fixed;
+  top: 0px;
+  z-index: 10;
 }
 
 #menu li {

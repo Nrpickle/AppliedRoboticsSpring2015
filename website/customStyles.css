@@ -21,16 +21,21 @@ div.contentRight {
 
 img.coeLogo {
   float: right;
-  margin-top: 15px;
+  margin: 0 auto;
 }
 
 h1.mainTitle {
   /* text-decoration: underline; */
   margin-bottom: 0px;
+  color: #F37321;
+  
+  text-align:center;
 }
 
 h2.mainSubtitle {
   margin-top: 5px;
+  
+  text-align: center;
 }
 
 h3 {
