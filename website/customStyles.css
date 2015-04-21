@@ -1,27 +1,26 @@
 div.contentHolder {
   margin: 0 auto;
-  width: 1170px;
+   max-width: 700px;
   
   height: 100%;
   
-  border-right: 180px solid rgba(0, 0, 0, 0.8);
+  /* border-right: 180px solid rgba(0, 0, 0, 0.8); */
   
   background-color: white;
+  
+  padding: 1px 30px;
 }
 
 div.contentLeft {
   width: 250px;
   height: 100%;
-  float: left;
+
 }
 
 div.contentRight {
   max-width: 870px;
    
   padding-right: 20px;
-  
-  float:right;
-  
   z-index: 2;
   
   margin-right: 30px;
@@ -36,17 +35,16 @@ div.contentRight {
 div.rightColor {
   width: 60px;
   height: 500px;
-  float: right;
   z-index:1;
   
   position: relative;
   right: 0;
   
   background: rgba(0, 0, 0, 0.8);
+
 }
 
 img.coeLogo {
-  float: right;
   margin: 0 auto;
 }
 
@@ -62,11 +60,31 @@ h2.mainSubtitle {
   margin-top: 5px;
   
   text-align: center;
+  
+  margin-bottom: 10px;
 }
 
 h3 {
   text-decoration: underline;
 }
+
+div.nickMenu {
+  font-size: 1.1em;
+  text-align: center;
+  width: 100%;
+}
+
+div.nickMenu a {
+  text-decoration: none;
+}
+
+div.nickMenu:link {
+  color: #4DB8FF;
+}
+div.nickMenu:visited {
+  color: #4DB8FF;
+}
+
 
 span.videoCaption {
   text-align: center;

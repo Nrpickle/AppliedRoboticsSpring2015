@@ -21,14 +21,17 @@ body, html {
   background-color: #F8F8F8;
 }
 
+/*
 a {
 	color: #FCFCFC; 
 	text-decoration: none;
 }
-
+*/
+/*
 	a:hover, li:hover > a {
 		color: #DEDEDE;
 	}
+*/ 
 
 ul {
 	list-style-type: none;
