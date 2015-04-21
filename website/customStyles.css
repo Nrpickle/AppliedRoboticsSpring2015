@@ -6,8 +6,7 @@ div.contentHolder {
   
   border-right: 180px solid rgba(0, 0, 0, 0.8);
   
-  
-  
+  background-color: white;
 }
 
 div.contentLeft {
@@ -29,6 +28,9 @@ div.contentRight {
   
   text-align: justify;
   font-size: 1.1em;
+  
+  overflow-y: scroll;
+  height: 100%;
 }
 
 div.rightColor {
