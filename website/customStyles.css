@@ -48,6 +48,23 @@ img.coeLogo {
   margin: 0 auto;
 }
 
+div.logoWrap {
+  margin: 0 auto;
+  width: 390px  ;
+  padding: 0px;
+}
+
+div.logoWrap img {
+  width: 390px;
+  padding: 0px;
+  margin: 0px;
+}
+
+div.footer {
+  padding: 0px;
+  margin: 0px;
+}
+
 h1.mainTitle {
   /* text-decoration: underline; */
   margin-bottom: 0px;
@@ -72,6 +89,9 @@ div.nickMenu {
   font-size: 1.1em;
   text-align: center;
   width: 100%;
+  /*
+  margin-bottom: -9px;
+  */
 }
 
 div.nickMenu a {
