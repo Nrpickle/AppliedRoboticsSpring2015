@@ -78,11 +78,12 @@ div.nickMenu a {
   text-decoration: none;
 }
 
-div.nickMenu:link {
-  color: #4DB8FF;
+div.nickMenu a:link, div.nickMenu a:visited  {
+  color: #0099FF;
 }
-div.nickMenu:visited {
-  color: #4DB8FF;
+
+div.nickMenu a:hover {
+  color: #000;
 }
 
 
