@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>New Page | Applied Robotics | Spring 2015</title>
+<!-- TemplateEndEditable -->
+
+<link rel="stylesheet" type="text/css" href="../css/menu.css">
+<link rel="stylesheet" type="text/css" href="../css/customStyles.css">
+
+<!-- TemplateBeginEditable name="head" -->
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="contentHolder">
+  
+  <h1 class="mainTitle"> <b>Applied Robotics</b>: ROB 421/521</h1>
+  <h2 class="mainSubtitle"> Spring Term 2015 </h2>
+  
+  <hr>
+  
+  <div class="nickMenu"> | 
+    <a href="../index.html">Home</a>  | 
+    <a href="../about.html">Course Description</a> |
+    <a href="../competition.html">Competition</a> | 
+    <a href="../teams.html">Teams</a> | 
+    <a href="../videos.html">Videos</a> |
+  </div>
+  
+  <hr>
+  
+  <!-- TemplateBeginEditable name="body" -->
+
+  <!-- TemplateEndEditable -->
+  
+  <div class="footer">
+    <hr>
+    
+    <div class="logoWrap"> 
+      <a href="http://engineering.oregonstate.edu/" target="_blank"> <img class="coeLogo" src="../images/logos/coe_logo_orange.png"> </a>
+    </div>
+  
+  </div>
+  
+  
+  
+
+
+</div>
+
+</body>
+</html>
